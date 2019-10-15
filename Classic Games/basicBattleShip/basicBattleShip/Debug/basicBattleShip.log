@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\darren\onedrive\projects\classic games\basicbattleship\basicbattleship\source.cpp(184): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\darren\onedrive\projects\classic games\basicbattleship\basicbattleship\source.cpp(189): warning C4101: 'quit': unreferenced local variable
+c:\users\darren\onedrive\projects\classic games\basicbattleship\basicbattleship\source.cpp(188): warning C4101: 'result': unreferenced local variable
+  basicBattleShip.vcxproj -> C:\Users\Darren\OneDrive\Projects\Classic Games\basicBattleShip\Debug\basicBattleShip.exe
+  basicBattleShip.vcxproj -> C:\Users\Darren\OneDrive\Projects\Classic Games\basicBattleShip\Debug\basicBattleShip.pdb (Partial PDB)
